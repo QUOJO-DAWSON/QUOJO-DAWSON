@@ -56,7 +56,7 @@ Source code and CI pipelines for 11 microservices written in Go, Python, Node.js
 
 ---
 
-### [devops-practise](https://github.com/QUOJO-DAWSON/devops-practise) — Live Serverless Platform
+### [aws-serverless-platform](https://github.com/QUOJO-DAWSON/aws-serverless-platform) — Live Serverless Platform
 > Live at [gdawsonkesson.com](https://gdawsonkesson.com)
 
 Production serverless platform provisioned entirely with Terraform. Running live with zero infrastructure cost.
